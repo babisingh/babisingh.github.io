@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/post4/</loc>
+      <lastmod>2018-04-25T23:41:31+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/post3/</loc>
+      <lastmod>2018-04-25T23:41:27+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/post2/</loc>
+      <lastmod>2018-04-25T23:41:23+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/my-first/</loc>
+      <lastmod>2018-04-25T23:40:46+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/content/post/my-first/</loc>
+      <lastmod>2018-04-25T23:37:40+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper2/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper3/</loc>
+      <lastmod>2018-03-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper4/</loc>
+      <lastmod>2017-02-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/review/</loc>
+      <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/talk2/</loc>
+      <lastmod>2016-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/talk4/</loc>
+      <lastmod>2016-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper1/</loc>
+      <lastmod>2016-06-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/talk3/</loc>
+      <lastmod>2015-12-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper5/</loc>
+      <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication/paper6/</loc>
+      <lastmod>2014-11-04T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/talk/talk1/</loc>
+      <lastmod>2014-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication_types/1/</loc>
+      <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication_types/2/</loc>
+      <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/content/</loc>
+      <lastmod>2018-04-25T23:37:40+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/publication_types/</loc>
+      <lastmod>2016-12-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://localhost:1313/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

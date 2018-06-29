@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Selected Talks on Academic</title>
+    <link>http://localhost:1313/talk/</link>
+    <description>Recent content in Selected Talks on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new approach to study mutations in non-coding regions uncovers new somatic alterations in cancer related to alternative splicing. IV Bioinformatics and Genomics Symposium, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk2/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social responsibility of scientists outside lab. Social Impact of Science 2016, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk4/</link>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale analysis of genome and transcriptome alterations in multiple tumors unveils novel cancer-relevant splicing networks. III Jornada de Bioinformàtica i Biologia Computacional, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk3/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The landscape of alternative splicing alterations in human cancer, Genome Informatics, Cambridge, U.K.</title>
+      <link>http://localhost:1313/talk/talk1/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Academic</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Academic on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post4</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Wed, 25 Apr 2018 23:41:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/post4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Wed, 25 Apr 2018 23:41:27 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Wed, 25 Apr 2018 23:41:23 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Science?</title>
+      <link>http://localhost:1313/post/my-first/</link>
+      <pubDate>Wed, 25 Apr 2018 23:40:46 +0200</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first/</guid>
+      <description>&lt;p&gt;Science to me stands for curiosity. Our nearest ancestor apes have never attempted to ask questions, even when taught as many as 125 sign languages [1]. They can make &amp;amp; use tools, process food, collect water, make shelter but do not ask questions. Given the context, I won&amp;rsquo;t judge whether humans are doing better or worse than apes, but here we are finding our way in the world through curiosity. Joseph Jordania in his book &amp;lsquo;Who Asked The First Question?&amp;rsquo; concluded that &amp;ldquo;ability to ask question could be a crucial cognitive threshold between primates and humans. It gave us, as an individual and as a group, an evolutionary advantage through group cognition and mental cooperation&amp;rdquo; [2]. Suddenly, we had an edge over problem solving &amp;amp; therefore better survival. The story seems far from over, we are still struggling for better survival, it&amp;rsquo;s not over yet and I believe, curiosity is what driving us. If we are not asking our &amp;lsquo;whys&amp;rsquo; somebody else will be asking it for us. Isn&amp;rsquo;t that a risk?&lt;/p&gt;
+
+&lt;p&gt;Indeed, we have come a long way from our immediate ancestors, dropping a few bombs here and there in the process but mostly doing good. We still have hunger and poverty, an unbalanced distribution of wealth and resources. Life is same but cost of life is different, diseases are same but treatments are different. Some struggle due to lack of medicines, some due to excess of it. Consumerism feeds me with everything I need (and do not need) and my ads have become hauntingly customized that I cannot help but click. Where is it all leading us?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Primate_cognition   &lt;a href=&#34;https://en.wikipedia.org/wiki/Primate_cognition#Asking_questions_and_giving_negative_answers&#34; target=&#34;_blank&#34;&gt;https://en.wikipedia.org/wiki/Primate_cognition#Asking_questions_and_giving_negative_answers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Who Asked The First Question?
+&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.3973&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34;&gt;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.3973&amp;amp;rep=rep1&amp;amp;type=pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First</title>
+      <link>http://localhost:1313/content/post/my-first/</link>
+      <pubDate>Wed, 25 Apr 2018 23:37:40 +0200</pubDate>
+      
+      <guid>http://localhost:1313/content/post/my-first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined analysis of genome sequencing and RNA-motifs reveals novel damaging non-coding mutations in human tumors</title>
+      <link>http://localhost:1313/publication/paper2/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUPPA2: fast, accurate, and uncertainty-aware differential splicing analysis across multiple conditions</title>
+      <link>http://localhost:1313/publication/paper3/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRFinder: Assessing the impact of intron retention on mammalian gene expression</title>
+      <link>http://localhost:1313/publication/paper4/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review: The role of alternative splicing in cancer</title>
+      <link>http://localhost:1313/publication/review/</link>
+      <pubDate>Thu, 22 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new approach to study mutations in non-coding regions uncovers new somatic alterations in cancer related to alternative splicing. IV Bioinformatics and Genomics Symposium, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk2/</link>
+      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social responsibility of scientists outside lab. Social Impact of Science 2016, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk4/</link>
+      <pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale analysis of genome and transcriptome alterations in multiple tumors unveils novel cancer-relevant splicing networks</title>
+      <link>http://localhost:1313/publication/paper1/</link>
+      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale analysis of genome and transcriptome alterations in multiple tumors unveils novel cancer-relevant splicing networks. III Jornada de Bioinformàtica i Biologia Computacional, Barcelona, Spain</title>
+      <link>http://localhost:1313/talk/talk3/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talk/talk3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A semi-supervised approach uncovers thousands of intragenic enhancers differentially activated in human cells</title>
+      <link>http://localhost:1313/publication/paper5/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argonaute-1 binds transcriptional enhancers and controls constitutive and alternative splicing in human cells</title>
+      <link>http://localhost:1313/publication/paper6/</link>
+      <pubDate>Tue, 04 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publication/paper6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
